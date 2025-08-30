@@ -1,1 +1,1 @@
-export { PhoneHomePage } from "./PhoneHomePage";
+export { PhoneHomePage } from "./phonehomepage";
