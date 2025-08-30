@@ -1,0 +1,644 @@
+.phone-project-screen {
+  align-items: start;
+  background-color: #ffffff;
+  display: grid;
+  justify-items: center;
+  width: 100vw;
+}
+
+.phone-project-screen .phone-project-2 {
+  background-color: #ffffff;
+  position: relative;
+}
+
+.phone-project-screen .overlap-group-10 {
+  border-radius: 25px;
+  height: 1197px;
+  left: 64px;
+  position: absolute;
+  top: 150px;
+  width: 454px;
+}
+
+.phone-project-screen .image-9 {
+  aspect-ratio: 0.44;
+  height: 1033px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 454px;
+}
+
+.phone-project-screen .experience-box-16 {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.1) 28%,
+    rgba(248, 249, 251, 0.8) 71%,
+    rgba(245, 247, 250, 0.95) 86%,
+    rgba(241, 244, 248, 1) 100%
+  );
+  border-radius: 25px;
+  height: 1197px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 454px;
+}
+
+.phone-project-screen .case-study-canadian {
+  color: #3a59ca;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 556px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 149px;
+  width: 798px;
+}
+
+.phone-project-screen .text-wrapper-68 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 554px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 409px;
+  white-space: nowrap;
+}
+
+.phone-project-screen .as-a-competitor-for {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 554px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 455px;
+  width: 799px;
+}
+
+.phone-project-screen .text-wrapper-69 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.phone-project-screen .text-wrapper-70 {
+  font-style: italic;
+}
+
+.phone-project-screen .text-wrapper-71 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 554px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 607px;
+  white-space: nowrap;
+}
+
+.phone-project-screen .canadian-tire-s-core {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 554px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 651px;
+  width: 801px;
+}
+
+.phone-project-screen .text-wrapper-72 {
+  font-weight: 600;
+}
+
+.phone-project-screen .text-wrapper-73 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 554px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 899px;
+  white-space: nowrap;
+}
+
+.phone-project-screen .our-team-conducted-a {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 554px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 943px;
+  width: 801px;
+}
+
+.phone-project-screen .linked-in-2 {
+  display: block;
+  height: 15px;
+  left: 69px;
+  position: absolute;
+  top: 1385px;
+  transition: all 0.2s ease;
+  width: 76px;
+}
+
+.phone-project-screen .linked-in-2:hover {
+  color: #3a59ca;
+}
+
+.phone-project-screen .text-wrapper-74 {
+  color: #000000bf;
+  display: block;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 1261px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 45px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.phone-project-screen .text-wrapper-74:hover {
+  color: #3a59ca;
+}
+
+.phone-project-screen .email-2 {
+  display: block;
+  height: 15px;
+  left: 170px;
+  position: absolute;
+  top: 1385px;
+  transition: all 0.2s ease;
+  width: 47px;
+}
+
+.phone-project-screen .email-2:hover {
+  color: #3a59ca;
+}
+
+.phone-project-screen .element-leung {
+  height: 19px;
+  left: 1209px;
+  position: absolute;
+  top: 1385px;
+  width: 188px;
+}
+
+.phone-project-screen .text-wrapper-75 {
+  color: #000000bf;
+  display: block;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 1168px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 45px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.phone-project-screen .text-wrapper-75:hover {
+  color: #3a59ca;
+}
+
+.phone-project-screen .group-8 {
+  position: absolute;
+}
+
+.phone-project-screen .text-wrapper-76 {
+  color: #7f7f7f;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.phone-project-screen .marketing-consultant {
+  color: #7f7f7f;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 45px;
+  width: 260px;
+}
+
+.phone-project-screen .overlap-group-11 {
+  border-radius: 25px;
+  height: 200px;
+  position: relative;
+}
+
+.phone-project-screen .image-10 {
+  aspect-ratio: 1.67;
+  height: 197px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 329px;
+}
+
+.phone-project-screen .experience-box-17 {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.15) 19%,
+    rgba(227, 233, 241, 0.9) 100%
+  );
+  border: none;
+  border-radius: 25px;
+  height: 200px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 329px;
+}
+
+.phone-project-screen .experience-box-17::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(58, 89, 202, 0.9) 100%
+  );
+  border-radius: 25px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.phone-project-screen .group-9 {
+  height: 64px;
+  left: 856px;
+  position: absolute;
+  top: 258px;
+  width: 279px;
+}
+
+.phone-project-screen .text-wrapper-77 {
+  color: #7f7f7f;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 45px;
+  width: 275px;
+}
+
+.phone-project-screen .group-10 {
+  height: 64px;
+  left: 1171px;
+  position: absolute;
+  top: 258px;
+  width: 116px;
+}
+
+.phone-project-screen .text-wrapper-78 {
+  color: #7f7f7f;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 45px;
+  white-space: nowrap;
+}
+
+.phone-project-screen .header-4 {
+  background-color: transparent;
+  height: 15px;
+  left: 260px;
+  position: absolute;
+  top: 20px;
+  width: 105px;
+}
+
+.phone-project-screen .text-wrapper-79 {
+  color: #000000bf;
+  display: block;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  transition: all 0.2s ease;
+}
+
+.phone-project-screen .text-wrapper-79:hover {
+  color: #3a59ca;
+}
+
+.phone-project-screen .text-wrapper-80 {
+  color: #000000bf;
+  display: block;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  transition: all 0.2s ease;
+}
+
+.phone-project-screen .text-wrapper-80:hover {
+  color: #3a59ca;
+}
+
+.phone-project-screen .case-study-canadian-2 {
+  color: #3a59ca;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 290px;
+  width: 329px;
+}
+
+.phone-project-screen .crew-2 {
+  height: 66px;
+  left: 32px;
+  position: absolute;
+  top: 351px;
+  width: 114px;
+}
+
+.phone-project-screen .marketing-consultant-2 {
+  color: #7f7f7f;
+  font-family: "Inter", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 19px;
+  width: 110px;
+}
+
+.phone-project-screen .text-wrapper-81 {
+  color: #7f7f7f;
+  font-family: "Inter", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.phone-project-screen .period-2 {
+  height: 42px;
+  left: 292px;
+  position: absolute;
+  top: 351px;
+  width: 73px;
+}
+
+.phone-project-screen .text-wrapper-82 {
+  color: #7f7f7f;
+  font-family: "Inter", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 19px;
+  width: 69px;
+}
+
+.phone-project-screen .text-wrapper-83 {
+  color: #7f7f7f;
+  font-family: "Inter", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 30px;
+}
+
+.phone-project-screen .composition-2 {
+  height: 44px;
+  left: 159px;
+  position: absolute;
+  top: 351px;
+  width: 120px;
+}
+
+.phone-project-screen .text-wrapper-84 {
+  color: #7f7f7f;
+  font-family: "Inter", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 19px;
+  width: 116px;
+}
+
+.phone-project-screen .text-wrapper-85 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 462px;
+  width: 58px;
+}
+
+.phone-project-screen .text-wrapper-86 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 588px;
+  width: 88px;
+}
+
+.phone-project-screen .text-wrapper-87 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 789px;
+  width: 52px;
+}
+
+.phone-project-screen .text-wrapper-88 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 498px;
+  width: 329px;
+}
+
+.phone-project-screen .canadian-tire-s-core-2 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 624px;
+  width: 329px;
+}
+
+.phone-project-screen .text-wrapper-89 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.phone-project-screen .our-team-conducted-a-2 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 824px;
+  width: 329px;
+}
+
+.phone-project-screen .footer-4 {
+  background-color: transparent;
+  height: 15px;
+  left: 32px;
+  position: absolute;
+  top: 1215px;
+  width: 335px;
+}
+
+.phone-project-screen .text-wrapper-90 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 202px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 127px;
+}
+
+.phone-project-screen .text-wrapper-91 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 48px;
+}
+
+.phone-project-screen .text-wrapper-91:hover {
+  color: #3a59ca;
+}
+
+.phone-project-screen .text-wrapper-92 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 57px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 31px;
+}
+
+.phone-project-screen .text-wrapper-92:hover {
+  color: #3a59ca;
+}
