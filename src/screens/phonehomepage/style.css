@@ -1,0 +1,2198 @@
+.phone-home-page {
+  align-items: start;
+  background-color: #ffffff;
+  display: grid;
+  justify-items: center;
+  width: 100vw;
+}
+
+.phone-home-page .div-3 {
+  background-color: #ffffff;
+  position: relative;
+}
+
+.phone-home-page .footer-3 {
+  background-color: transparent;
+  height: 15px;
+  left: 33px;
+  position: absolute;
+  top: 2062px;
+  width: 333px;
+}
+
+.phone-home-page .text-wrapper-36 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 201px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 126px;
+}
+
+.phone-home-page .text-wrapper-37 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 48px;
+}
+
+.phone-home-page .text-wrapper-37:hover {
+  color: #3a59ca;
+}
+
+.phone-home-page .text-wrapper-38 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 57px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 31px;
+}
+
+.phone-home-page .text-wrapper-38:hover {
+  color: #3a59ca;
+}
+
+.phone-home-page .jobs {
+  height: 975px;
+  left: 32px;
+  position: absolute;
+  top: 289px;
+  width: 329px;
+}
+
+.phone-home-page .pondr {
+  height: 225px;
+  left: 0;
+  position: absolute;
+  top: 750px;
+  transition: all 0.2s ease;
+  width: 333px;
+}
+
+.phone-home-page .pondr:hover {
+  transform: scale(1.03);
+}
+
+.phone-home-page .overlap-group-3 {
+  border-radius: 25px;
+  height: 225px;
+  position: relative;
+  width: 329px;
+}
+
+.phone-home-page .demo {
+  aspect-ratio: 1.85;
+  height: 178px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 329px;
+}
+
+.phone-home-page .experience-box-7 {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.15) 19%,
+    rgba(241, 244, 248, 0.6) 43%,
+    rgba(234, 239, 245, 0.9) 65%,
+    rgba(227, 233, 241, 1) 100%
+  );
+  border: none;
+  border-radius: 25px;
+  height: 225px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 329px;
+}
+
+.phone-home-page .experience-box-7::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(58, 89, 202, 0.9) 100%
+  );
+  border-radius: 25px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.phone-home-page .founding-PMM-intern {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 164px;
+  width: 304px;
+}
+
+.phone-home-page .text-wrapper-39 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 125px;
+  width: 304px;
+}
+
+.phone-home-page .computrol {
+  height: 225px;
+  left: 0;
+  position: absolute;
+  top: 500px;
+  transition: all 0.2s ease;
+  width: 335px;
+}
+
+.phone-home-page .computrol:hover {
+  transform: scale(1.03);
+}
+
+.phone-home-page .product {
+  aspect-ratio: 0.91;
+  height: 169px;
+  left: 152px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 154px;
+}
+
+.phone-home-page .logo {
+  aspect-ratio: 1;
+  height: 92px;
+  left: 48px;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 92px;
+}
+
+.phone-home-page .experience-box-8 {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.15) 19%,
+    rgba(241, 244, 248, 0.7) 51%,
+    rgba(234, 239, 245, 0.85) 60%,
+    rgba(227, 233, 241, 1) 100%
+  );
+  border: none;
+  border-radius: 25px;
+  height: 225px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 329px;
+}
+
+.phone-home-page .experience-box-8::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(58, 89, 202, 0.9) 100%
+  );
+  border-radius: 25px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.phone-home-page .read-more-about-the {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 196px;
+  width: 255px;
+}
+
+.phone-home-page .text-wrapper-40 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 148px;
+  width: 304px;
+}
+
+.phone-home-page .text-wrapper-41 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 113px;
+  width: 304px;
+}
+
+.phone-home-page .FISPAN {
+  height: 225px;
+  left: 0;
+  position: absolute;
+  top: 250px;
+  transition: all 0.2s ease;
+  width: 333px;
+}
+
+.phone-home-page .FISPAN:hover {
+  transform: scale(1.03);
+}
+
+.phone-home-page .mockup-wrapper {
+  background-image: url(../../../static/img/mockup.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 104px;
+  left: 42px;
+  position: absolute;
+  top: 29px;
+  width: 156px;
+}
+
+.phone-home-page .mockup {
+  aspect-ratio: 1.56;
+  height: 63px;
+  left: 29px;
+  position: absolute;
+  top: 15px;
+  width: 99px;
+}
+
+.phone-home-page .demo-2 {
+  aspect-ratio: 1.55;
+  height: 110px;
+  left: 124px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 172px;
+}
+
+.phone-home-page .experience-box-9 {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.15) 19%,
+    rgba(241, 244, 248, 0.8) 44%,
+    rgba(234, 239, 245, 0.9) 76%,
+    rgba(227, 233, 241, 1) 100%
+  );
+  border: none;
+  border-radius: 25px;
+  height: 225px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 329px;
+}
+
+.phone-home-page .experience-box-9::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(58, 89, 202, 0.9) 100%
+  );
+  border-radius: 25px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.phone-home-page .improved-product {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 152px;
+  width: 304px;
+}
+
+.phone-home-page .product-marketing {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 116px;
+  width: 304px;
+}
+
+.phone-home-page .okta {
+  height: 225px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 335px;
+}
+
+.phone-home-page .okta:hover {
+  transform: scale(1.03);
+}
+
+.phone-home-page .image-6 {
+  aspect-ratio: 1.46;
+  height: 225px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 328px;
+}
+
+.phone-home-page .experience-box-10 {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.15) 19%,
+    rgba(241, 244, 248, 0.52) 30%,
+    rgba(234, 239, 245, 0.85) 44%,
+    rgba(227, 233, 241, 1) 100%
+  );
+  border: none;
+  border-radius: 25px;
+  height: 225px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 329px;
+}
+
+.phone-home-page .experience-box-10::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(58, 89, 202, 0.9) 100%
+  );
+  border-radius: 25px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.phone-home-page .supporting-product {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 145px;
+  width: 255px;
+}
+
+.phone-home-page .text-wrapper-42 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.phone-home-page .text-wrapper-43 {
+  font-style: italic;
+}
+
+.phone-home-page .product-marketing-2 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 112px;
+  width: 304px;
+}
+
+.phone-home-page .learn-more-about {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 193px;
+  width: 255px;
+}
+
+.phone-home-page .overlap-5 {
+  border-radius: 25px;
+  height: 200px;
+  left: 33px;
+  position: absolute;
+  top: 1334px;
+  width: 329px;
+}
+
+.phone-home-page .tech-stack {
+  background: linear-gradient(
+    180deg,
+    rgba(200, 227, 247, 1) 0%,
+    rgba(243, 248, 250, 1) 100%
+  );
+  border: none;
+  border-radius: 25px;
+  height: 200px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 329px;
+}
+
+.phone-home-page .tech-stack::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(0deg, rgba(239, 243, 244, 1) 100%);
+  border-radius: 25px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.phone-home-page .tech-stack:hover {
+  transform: scale(1.03);
+}
+
+.phone-home-page .productboard {
+  height: 62px;
+  left: 28px;
+  position: absolute;
+  top: 27px;
+  width: 97px;
+}
+
+.phone-home-page .productboard-icon {
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 37px;
+}
+
+.phone-home-page .productboard-icon:hover {
+  transform: scale(1.05);
+}
+
+.phone-home-page .overlap-group-wrapper {
+  height: 23px;
+}
+
+.phone-home-page .overlap-group-4 {
+  height: 23px;
+  position: relative;
+  width: 37px;
+}
+
+.phone-home-page .vector-3 {
+  height: 11px;
+  left: 0;
+  position: absolute;
+  top: 11px;
+  width: 25px;
+}
+
+.phone-home-page .vector-4 {
+  height: 11px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.phone-home-page .vector-5 {
+  height: 23px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.phone-home-page .text-6 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 29px;
+}
+
+.phone-home-page .text-7 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 47px;
+}
+
+.phone-home-page .notebooklm {
+  height: 66px;
+  left: 144px;
+  position: absolute;
+  top: 23px;
+  width: 80px;
+}
+
+.phone-home-page .notebooklm-logo-wrapper {
+  height: 31px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 33px;
+}
+
+.phone-home-page .notebooklm-logo-wrapper:hover {
+  transform: scale(1.05);
+}
+
+.phone-home-page .notebooklm-logo {
+  height: 31px;
+  position: relative;
+}
+
+.phone-home-page .vector-6 {
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 33px;
+}
+
+.phone-home-page .text-8 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 33px;
+}
+
+.phone-home-page .text-9 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 51px;
+}
+
+.phone-home-page .figma {
+  height: 66px;
+  left: 28px;
+  position: absolute;
+  top: 107px;
+  width: 44px;
+}
+
+.phone-home-page .frame {
+  background-image: url(../../../static/img/vector-5.svg);
+  background-size: 100% 100%;
+  height: 30px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 32px;
+}
+
+.phone-home-page .frame:hover {
+  transform: scale(1.05);
+}
+
+.phone-home-page .overlap-group-5 {
+  height: 27px;
+  position: relative;
+  top: 2px;
+  width: 33px;
+}
+
+.phone-home-page .clip-path-group {
+  height: 23px;
+  left: 8px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.phone-home-page .link {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-decoration: underline;
+  top: 0;
+  width: 33px;
+}
+
+.phone-home-page .asana {
+  height: 69px;
+  left: 180px;
+  position: absolute;
+  top: 105px;
+  width: 122px;
+}
+
+.phone-home-page .vector-7 {
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 35px;
+}
+
+.phone-home-page .vector-7:hover {
+  transform: scale(1.05);
+}
+
+.phone-home-page .text-10 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 35px;
+  width: 70px;
+}
+
+.phone-home-page .text-11 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 54px;
+}
+
+.phone-home-page .hubspot {
+  height: 68px;
+  left: 94px;
+  position: absolute;
+  top: 106px;
+  width: 60px;
+}
+
+.phone-home-page .vector-8 {
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 27px;
+}
+
+.phone-home-page .vector-8:hover {
+  transform: scale(1.05);
+}
+
+.phone-home-page .text-12 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 5px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 34px;
+}
+
+.phone-home-page .text-13 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 5px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 53px;
+}
+
+.phone-home-page .text-wrapper-44 {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 31px;
+  width: 61px;
+}
+
+.phone-home-page .projects {
+  height: 424px;
+  left: 31px;
+  position: absolute;
+  top: 1604px;
+  width: 329px;
+}
+
+.phone-home-page .can-tire {
+  height: 200px;
+  left: 0;
+  position: absolute;
+  top: 224px;
+  transition: all 0.2s ease;
+  width: 333px;
+}
+
+.phone-home-page .can-tire:hover {
+  transform: scale(1.03);
+}
+
+.phone-home-page .overlap-group-6 {
+  background-image: url(../../../static/img/image-4.png);
+  background-size: 100% 100%;
+  height: 200px;
+  position: relative;
+  width: 329px;
+}
+
+.phone-home-page .experience-box-11 {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.15) 19%,
+    rgba(241, 244, 248, 0.52) 47%,
+    rgba(234, 239, 245, 0.85) 69%,
+    rgba(227, 233, 241, 1) 100%
+  );
+  border: none;
+  border-radius: 25px;
+  height: 200px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 329px;
+}
+
+.phone-home-page .experience-box-11::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(58, 89, 202, 0.9) 100%
+  );
+  border-radius: 25px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.phone-home-page .learn-more {
+  color: #000000;
+  display: block;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 171px;
+}
+
+.phone-home-page .text-wrapper-45 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 152px;
+}
+
+.phone-home-page .axis {
+  height: 200px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 333px;
+}
+
+.phone-home-page .axis:hover {
+  transform: scale(1.03);
+}
+
+.phone-home-page .overlap-6 {
+  border-radius: 25px;
+  height: 200px;
+  position: relative;
+  width: 329px;
+}
+
+.phone-home-page .screenshot-2 {
+  aspect-ratio: 1.67;
+  height: 197px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 329px;
+}
+
+.phone-home-page .axis-consulting-x {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 132px;
+}
+
+.phone-home-page .learn-more-2 {
+  color: #000000;
+  display: block;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 165px;
+}
+
+.phone-home-page .text-wrapper-46 {
+  color: #3a59ca;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1301px;
+}
+
+.phone-home-page .text-wrapper-47 {
+  color: #3a59ca;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1571px;
+}
+
+.phone-home-page .text-wrapper-48 {
+  color: #3a59ca;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 256px;
+}
+
+.phone-home-page .header-3 {
+  background-color: transparent;
+  height: 15px;
+  left: 201px;
+  position: absolute;
+  top: 20px;
+  width: 166px;
+}
+
+.phone-home-page .text-wrapper-49 {
+  color: #000000bf;
+  display: block;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  transition: all 0.2s ease;
+}
+
+.phone-home-page .text-wrapper-49:hover {
+  color: #3a59ca;
+}
+
+.phone-home-page .text-wrapper-50 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 113px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  transition: all 0.2s ease;
+}
+
+.phone-home-page .text-wrapper-50:hover {
+  color: #3a59ca;
+}
+
+.phone-home-page .text-wrapper-51 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  transition: all 0.2s ease;
+}
+
+.phone-home-page .text-wrapper-51:hover {
+  color: #3a59ca;
+}
+
+.phone-home-page .i-m-a-product {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 59px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 187px;
+}
+
+.phone-home-page .hi-there-i-m-willis {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 608px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 286px;
+  width: 262px;
+}
+
+.phone-home-page .text-wrapper-52 {
+  color: #3a59ca;
+}
+
+.phone-home-page .text-wrapper-53 {
+  color: #000000;
+}
+
+.phone-home-page .i-m-a-product-2 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 453px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 331px;
+  width: 546px;
+}
+
+.phone-home-page .text-wrapper-54 {
+  color: #000000bf;
+  display: block;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 1162px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 45px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.phone-home-page .text-wrapper-54:hover {
+  color: #3a59ca;
+}
+
+.phone-home-page .text-wrapper-55 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 1291px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 45px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.phone-home-page .text-wrapper-55:hover {
+  color: #3a59ca;
+}
+
+.phone-home-page .text-wrapper-56 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 1164px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2110px;
+  width: 201px;
+}
+
+.phone-home-page .text-wrapper-57 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 68px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2110px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.phone-home-page .text-wrapper-57:hover {
+  color: #3a59ca;
+}
+
+.phone-home-page .text-wrapper-58 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 169px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2110px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.phone-home-page .text-wrapper-58:hover {
+  color: #3a59ca;
+}
+
+.phone-home-page .text-wrapper-59 {
+  color: #3a59ca;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 69px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 465px;
+  width: 546px;
+}
+
+.phone-home-page .personal-projects {
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.phone-home-page .div-wrapper {
+  height: 379px;
+  left: 68px;
+  position: absolute;
+  top: 1651px;
+  transition: all 0.2s ease;
+  width: 572px;
+}
+
+.phone-home-page .div-wrapper:hover {
+  transform: scale(1.025);
+}
+
+.phone-home-page .overlap-group-7 {
+  background-image: url(../../../static/img/screenshot-2025-07-27-at-6-20-16-pm-1-1.png);
+  background-size: 100% 100%;
+  height: 379px;
+  position: relative;
+  width: 568px;
+}
+
+.phone-home-page .experience-box-12 {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.05) 0%,
+    rgba(248, 249, 251, 0.3) 42%,
+    rgba(244, 247, 250, 0.7) 65%,
+    rgba(243, 245, 249, 0.9) 81%,
+    rgba(241, 244, 248, 1) 100%
+  );
+  border: none;
+  border-radius: 25px;
+  height: 379px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 568px;
+}
+
+.phone-home-page .experience-box-12::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(58, 89, 202, 1) 100%
+  );
+  border-radius: 25px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.phone-home-page .axis-consulting-x-2 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 275px;
+  width: 287px;
+}
+
+.phone-home-page .learn-more-3 {
+  color: #000000;
+  display: block;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 332px;
+  white-space: nowrap;
+  width: 287px;
+}
+
+.phone-home-page .can-tire-2 {
+  height: 379px;
+  left: 661px;
+  position: absolute;
+  top: 1651px;
+  transition: all 0.2s ease;
+  width: 708px;
+}
+
+.phone-home-page .can-tire-2:hover {
+  transform: scale(1.01);
+}
+
+.phone-home-page .overlap-7 {
+  border-radius: 25px;
+  height: 379px;
+  position: relative;
+  width: 704px;
+}
+
+.phone-home-page .image-7 {
+  aspect-ratio: 1.85;
+  height: 379px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 703px;
+}
+
+.phone-home-page .experience-box-13 {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.05) 0%,
+    rgba(248, 249, 251, 0.65) 55%,
+    rgba(245, 247, 250, 0.76) 75%,
+    rgba(241, 244, 248, 1) 100%
+  );
+  border: none;
+  border-radius: 25px;
+  height: 379px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 704px;
+}
+
+.phone-home-page .experience-box-13::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(58, 89, 202, 1) 100%
+  );
+  border-radius: 25px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.phone-home-page .text-wrapper-60 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 303px;
+  white-space: nowrap;
+  width: 347px;
+}
+
+.phone-home-page .learn-more-4 {
+  color: #000000;
+  display: block;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 333px;
+  white-space: nowrap;
+  width: 245px;
+}
+
+.phone-home-page .tech-stack-2 {
+  background: linear-gradient(
+    180deg,
+    rgba(200, 227, 247, 1) 0%,
+    rgba(243, 248, 250, 1) 100%
+  );
+  border: none;
+  border-radius: 25px;
+  height: 201px;
+  left: 72px;
+  position: absolute;
+  top: 1341px;
+  transition: all 0.2s ease;
+  width: 1296px;
+}
+
+.phone-home-page .tech-stack-2::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(0deg, rgba(239, 243, 244, 1) 100%);
+  border-radius: 25px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.phone-home-page .tech-stack-2:hover {
+  transform: scale(1.01);
+}
+
+.phone-home-page .productboard-2 {
+  height: 117px;
+  left: 208px;
+  position: absolute;
+  top: 32px;
+  width: 163px;
+}
+
+.phone-home-page .group-wrapper {
+  height: 52px;
+  left: 10px;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 83px;
+}
+
+.phone-home-page .group-wrapper:hover {
+  transform: scale(1.05);
+}
+
+.phone-home-page .group-4 {
+  height: 52px;
+}
+
+.phone-home-page .overlap-group-8 {
+  height: 52px;
+  position: relative;
+  width: 83px;
+}
+
+.phone-home-page .vector-9 {
+  height: 26px;
+  left: 0;
+  position: absolute;
+  top: 26px;
+  width: 55px;
+}
+
+.phone-home-page .vector-10 {
+  height: 26px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 55px;
+}
+
+.phone-home-page .vector-11 {
+  height: 52px;
+  left: 28px;
+  position: absolute;
+  top: 0;
+  width: 55px;
+}
+
+.phone-home-page .text-14 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 75px;
+  white-space: nowrap;
+  width: 138px;
+}
+
+.phone-home-page .text-15 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 99px;
+  white-space: nowrap;
+  width: 159px;
+}
+
+.phone-home-page .notebooklm-2 {
+  height: 130px;
+  left: 426px;
+  position: absolute;
+  top: 20px;
+  width: 133px;
+}
+
+.phone-home-page .group-5 {
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 79px;
+}
+
+.phone-home-page .group-5:hover {
+  transform: scale(1.04);
+}
+
+.phone-home-page .vector-wrapper {
+  height: 75px;
+  position: relative;
+}
+
+.phone-home-page .vector-12 {
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 79px;
+}
+
+.phone-home-page .text-16 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 86px;
+  white-space: nowrap;
+  width: 129px;
+}
+
+.phone-home-page .text-17 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 112px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.phone-home-page .figma-2 {
+  height: 117px;
+  left: 614px;
+  position: absolute;
+  top: 32px;
+  width: 81px;
+}
+
+.phone-home-page .frame-2 {
+  height: 58px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 61px;
+}
+
+.phone-home-page .frame-2:hover {
+  transform: scale(1.05);
+}
+
+.phone-home-page .text-18 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 74px;
+  white-space: nowrap;
+  width: 69px;
+}
+
+.phone-home-page .text-19 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 99px;
+  white-space: nowrap;
+  width: 77px;
+}
+
+.phone-home-page .hubspot-2 {
+  height: 120px;
+  left: 750px;
+  position: absolute;
+  top: 32px;
+  width: 106px;
+}
+
+.phone-home-page .hubspot-logo {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 63px;
+}
+
+.phone-home-page .hubspot-logo:hover {
+  transform: scale(1.05);
+}
+
+.phone-home-page .vector-13 {
+  height: 60px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 57px;
+}
+
+.phone-home-page .text-20 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 4px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 76px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.phone-home-page .text-21 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 102px;
+  white-space: nowrap;
+  width: 52px;
+}
+
+.phone-home-page .asana-2 {
+  height: 147px;
+  left: 911px;
+  position: absolute;
+  top: 32px;
+  width: 201px;
+}
+
+.phone-home-page .asana-icon-logo {
+  background-image: url(../../../static/img/vector-13.svg);
+  background-size: 100% 100%;
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 68px;
+}
+
+.phone-home-page .asana-icon-logo:hover {
+  transform: scale(1.05);
+}
+
+.phone-home-page .text-22 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 76px;
+  white-space: nowrap;
+  width: 70px;
+}
+
+.phone-home-page .text-23 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 102px;
+  width: 197px;
+}
+
+.phone-home-page .pondr-2 {
+  height: 325px;
+  left: 694px;
+  position: absolute;
+  top: 907px;
+  transition: all 0.2s ease;
+  width: 676px;
+}
+
+.phone-home-page .pondr-2:hover {
+  transform: scale(1.01);
+}
+
+.phone-home-page .overlap-8 {
+  border-radius: 25px;
+  height: 325px;
+  position: relative;
+  width: 672px;
+}
+
+.phone-home-page .demo-3 {
+  aspect-ratio: 1.95;
+  height: 313px;
+  left: 37px;
+  position: absolute;
+  top: 0;
+  width: 611px;
+}
+
+.phone-home-page .experience-box-14 {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.1) 28%,
+    rgba(248, 249, 251, 0.9) 70%,
+    rgba(241, 244, 248, 1) 100%
+  );
+  border: none;
+  border-radius: 25px;
+  height: 325px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 672px;
+}
+
+.phone-home-page .experience-box-14::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(58, 89, 202, 1) 100%
+  );
+  border-radius: 25px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.phone-home-page .founding-PMM-intern-2 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 233px;
+  width: 600px;
+}
+
+.phone-home-page .text-wrapper-61 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 202px;
+  white-space: nowrap;
+}
+
+.phone-home-page .computrol-systems {
+  height: 325px;
+  left: 69px;
+  position: absolute;
+  top: 907px;
+  transition: all 0.2s ease;
+  width: 600px;
+}
+
+.phone-home-page .computrol-systems:hover {
+  transform: scale(1.01);
+}
+
+.phone-home-page .overlap-9 {
+  border-radius: 25px;
+  height: 325px;
+  position: relative;
+  width: 594px;
+}
+
+.phone-home-page .product-2 {
+  aspect-ratio: 0.91;
+  height: 296px;
+  left: 310px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 269px;
+}
+
+.phone-home-page .logo-2 {
+  aspect-ratio: 1;
+  height: 201px;
+  left: 92px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 201px;
+}
+
+.phone-home-page .experience-box-15 {
+  background: linear-gradient(
+    180deg,
+    rgba(241, 244, 248, 0.2) 0%,
+    rgba(248, 249, 251, 0.15) 35%,
+    rgba(241, 244, 248, 0.7) 62%,
+    rgba(227, 233, 241, 1) 100%
+  );
+  border: none;
+  border-radius: 25px;
+  height: 325px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 594px;
+}
+
+.phone-home-page .experience-box-15::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(58, 89, 202, 1) 100%
+  );
+  border-radius: 25px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.phone-home-page .text-wrapper-62 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 221px;
+  width: 569px;
+}
+
+.phone-home-page .read-more-about-the-2 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 276px;
+  width: 569px;
+}
+
+.phone-home-page .text-wrapper-63 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 190px;
+  width: 538px;
+}
+
+.phone-home-page .FISPAN-2 {
+  height: 374px;
+  left: 769px;
+  position: absolute;
+  top: 511px;
+  transition: all 0.2s ease;
+  width: 600px;
+}
+
+.phone-home-page .FISPAN-2:hover {
+  transform: scale(1.01);
+}
+
+.phone-home-page .overlap-10 {
+  border-radius: 25px;
+  height: 374px;
+  position: relative;
+  width: 596px;
+}
+
+.phone-home-page .group-6 {
+  height: 169px;
+  left: 116px;
+  position: absolute;
+  top: 33px;
+  width: 351px;
+}
+
+.phone-home-page .overlap-group-9 {
+  height: 169px;
+  position: relative;
+}
+
+.phone-home-page .mockup-2 {
+  aspect-ratio: 1.5;
+  height: 144px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 216px;
+}
+
+.phone-home-page .mockup-3 {
+  aspect-ratio: 1.56;
+  height: 88px;
+  left: 41px;
+  position: absolute;
+  top: 46px;
+  width: 137px;
+}
+
+.phone-home-page .demo-4 {
+  aspect-ratio: 1.55;
+  height: 152px;
+  left: 115px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 236px;
+}
+
+.phone-home-page .color-box {
+  background: linear-gradient(
+    180deg,
+    rgba(241, 244, 248, 0.35) 0%,
+    rgba(241, 244, 248, 0.1) 57%,
+    rgba(237, 241, 246, 0.7) 69%,
+    rgba(234, 238, 244, 0.85) 82%,
+    rgba(227, 233, 241, 1) 100%
+  );
+  border: none;
+  border-radius: 25px;
+  height: 374px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 596px;
+}
+
+.phone-home-page .color-box::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(58, 89, 202, 1) 100%
+  );
+  border-radius: 25px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.phone-home-page .improved-product-2 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 275px;
+  width: 554px;
+}
+
+.phone-home-page .text-wrapper-64 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 248px;
+  white-space: nowrap;
+}
+
+.phone-home-page .okta-2 {
+  background-image: url(../../../static/img/image-3-1.png);
+  background-size: 100% 100%;
+  height: 374px;
+  left: 69px;
+  position: absolute;
+  top: 511px;
+  transition: all 0.2s ease;
+  width: 674px;
+}
+
+.phone-home-page .okta-2:hover {
+  transform: scale(1.01);
+}
+
+.phone-home-page .overlap-11 {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.15) 19%,
+    rgba(241, 244, 248, 0.52) 47%,
+    rgba(234, 239, 245, 0.85) 69%,
+    rgba(227, 233, 241, 1) 100%
+  );
+  border: none;
+  border-radius: 25px;
+  height: 374px;
+  position: relative;
+}
+
+.phone-home-page .overlap-11::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(58, 89, 202, 0.9) 100%
+  );
+  border-radius: 25px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.phone-home-page .group-7 {
+  height: 136px;
+  left: 23px;
+  position: relative;
+  top: 210px;
+  width: 568px;
+}
+
+.phone-home-page .text-wrapper-65 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 542px;
+}
+
+.phone-home-page .text-wrapper-66 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 32px;
+  width: 562px;
+}
+
+.phone-home-page .learn-about-OSIC {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 112px;
+  width: 285px;
+}
+
+.phone-home-page .text-wrapper-67 {
+  color: #3a59ca;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 72px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1293px;
+  width: 546px;
+}
+
+.phone-home-page .image-wrapper {
+  background: linear-gradient(
+    180deg,
+    rgba(200, 227, 247, 1) 0%,
+    rgba(243, 248, 250, 1) 100%
+  );
+  border: 2px solid;
+  border-color: #eff3f4;
+  position: absolute;
+}
+
+.phone-home-page .image-8 {
+  aspect-ratio: 0.83;
+  position: absolute;
+  transition: all 0.2s ease;
+}
+
+.phone-home-page .image-8:hover {
+  transform: rotate(15deg);
+}
