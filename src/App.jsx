@@ -1,6 +1,6 @@
 import React from "react";
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
-import { AboutMe } from "./screens/AboutMe";
+import { AboutMe } from "./screens/aboutme";
 import { PhoneHomePage } from "./screens/PhoneHomePage";
 import { PhoneProject } from "./screens/PhoneProject";
 import { PhoneProjectScreen } from "./screens/PhoneProjectScreen";
