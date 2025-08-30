@@ -1,9 +1,9 @@
 import React from "react";
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import { AboutMe } from "./screens/aboutme";
-import { PhoneHomePage } from "./screens/PhoneHomePage";
-import { PhoneProject } from "./screens/PhoneProject";
-import { PhoneProjectScreen } from "./screens/PhoneProjectScreen";
+import { PhoneHomePage } from "./screens/phonehomepage";
+import { PhoneProject } from "./screens/phoneproject";
+import { PhoneProjectScreen } from "./screens/phoneprojectscreen";
 
 const router = createBrowserRouter([
   {
