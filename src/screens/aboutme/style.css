@@ -1,0 +1,628 @@
+.about-me {
+  align-items: start;
+  background-color: #ffffff;
+  display: grid;
+  justify-items: center;
+  width: 100vw;
+}
+
+.about-me .phone-about-me {
+  background-color: #ffffff;
+  position: relative;
+}
+
+.about-me .education {
+  position: absolute;
+}
+
+.about-me .overlap-group {
+  background-size: 100% 100%;
+  position: relative;
+}
+
+.about-me .experience-box {
+  border: none;
+  border-radius: 25px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.about-me .experience-box::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  border-radius: 25px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.about-me .text {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+}
+
+.about-me .div {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+}
+
+.about-me .overlap-wrapper {
+  position: absolute;
+}
+
+.about-me .overlap {
+  background-size: 100% 100%;
+  position: relative;
+}
+
+.about-me .experience-box-2 {
+  border: none;
+  border-radius: 25px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.about-me .experience-box-2::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  border-radius: 25px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.about-me .text-2 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+}
+
+.about-me .education-2 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+}
+
+.about-me .work {
+  position: absolute;
+}
+
+.about-me .overlap-2 {
+  background-size: 100% 100%;
+  position: relative;
+}
+
+.about-me .experience-box-3 {
+  border: none;
+  border-radius: 25px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.about-me .experience-box-3::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  border-radius: 25px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.about-me .text-wrapper {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+}
+
+.about-me .p {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+}
+
+.about-me .span {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.about-me .text-wrapper-2 {
+  font-style: italic;
+}
+
+.about-me .text-wrapper-3 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.about-me .location {
+  position: absolute;
+}
+
+.about-me .overlap-3 {
+  position: relative;
+}
+
+.about-me .image {
+  aspect-ratio: 1.44;
+  height: 333px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 480px;
+}
+
+.about-me .experience-box-4 {
+  border: none;
+  border-radius: 25px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.about-me .experience-box-4::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  border-radius: 25px;
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 1px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.about-me .text-3 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+}
+
+.about-me .text-4 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 242px;
+  white-space: nowrap;
+}
+
+.about-me .text-5 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 85px;
+}
+
+.about-me .header {
+  background-color: transparent;
+  height: 15px;
+  left: 327px;
+  position: absolute;
+  top: 20px;
+  width: 36px;
+}
+
+.about-me .text-wrapper-4 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  transition: all 0.2s ease;
+}
+
+.about-me .text-wrapper-4:hover {
+  color: #3a59ca;
+}
+
+.about-me .make-it-punchy-image {
+  aspect-ratio: 0.63;
+  height: 172px;
+  left: 63px;
+  position: absolute;
+  top: 571px;
+  transition: all 0.2s ease;
+  width: 108px;
+}
+
+.about-me .make-it-punchy-image:hover {
+  transform: rotate(10deg);
+}
+
+.about-me .text-wrapper-5 {
+  color: #3a59ca;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 63px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 508px;
+}
+
+.about-me .i-m-an-early-career {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 63px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 176px;
+  width: 310px;
+}
+
+.about-me .make-it-punchy-by {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 177px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 645px;
+  width: 201px;
+}
+
+.about-me .text-wrapper-6 {
+  color: #3a59ca;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 124px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 124px;
+}
+
+.about-me .text-wrapper-7 {
+  color: #000000bf;
+  display: block;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 1320px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 45px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.about-me .text-wrapper-7:hover {
+  color: #3a59ca;
+}
+
+.about-me .contact {
+  position: absolute;
+  transition: all 0.2s ease;
+}
+
+.about-me .contact:hover {
+  transform: scale(1.02);
+}
+
+.about-me .overlap-4 {
+  background: linear-gradient(
+    180deg,
+    rgba(200, 227, 247, 1) 0%,
+    rgba(243, 248, 250, 1) 100%
+  );
+  border: 1px solid;
+  border-color: #eff3f4;
+  border-radius: 25px;
+  position: relative;
+}
+
+.about-me .text-wrapper-8 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 36px;
+  white-space: nowrap;
+  width: 139px;
+}
+
+.about-me .img {
+  height: 35px;
+  left: 241px;
+  position: absolute;
+  top: 24px;
+  transition: all 0.2s ease;
+  width: 35px;
+}
+
+.about-me .img:hover {
+  transform: scale(1.03);
+}
+
+.about-me .image-2 {
+  display: block;
+  height: 35px;
+  left: 73px;
+  position: absolute;
+  top: 48px;
+  transition: all 0.2s ease;
+  width: 35px;
+}
+
+.about-me .image-2:hover {
+  transform: scale(1.03);
+}
+
+.about-me .image-3 {
+  display: block;
+  height: 35px;
+  object-fit: cover;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 35px;
+}
+
+.about-me .image-3:hover {
+  transform: scale(1.03);
+}
+
+.about-me .text-wrapper-9 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.about-me .vector {
+  height: 49px;
+  left: 194px;
+  position: absolute;
+  top: 587px;
+  width: 34px;
+}
+
+.about-me .image-4 {
+  aspect-ratio: 1.17;
+  height: 64px;
+  left: 49px;
+  position: absolute;
+  top: 90px;
+  width: 75px;
+}
+
+.about-me .text-wrapper-10 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 1175px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 928px;
+  width: 201px;
+}
+
+.about-me .reading {
+  height: 132px;
+  left: 32px;
+  position: absolute;
+  top: 240px;
+  width: 182px;
+}
+
+.about-me .make-it-punchy-image-2 {
+  aspect-ratio: 0.63;
+  height: 97px;
+  left: 0;
+  position: absolute;
+  top: 35px;
+  transition: all 0.2s ease;
+  width: 61px;
+}
+
+.about-me .make-it-punchy-image-2:hover {
+  transform: rotate(10deg);
+}
+
+.about-me .text-wrapper-11 {
+  color: #3a59ca;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 121px;
+}
+
+.about-me .make-it-punchy-by-2 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 77px;
+  width: 114px;
+}
+
+.about-me .vector-2 {
+  height: 29px;
+  left: 74px;
+  position: absolute;
+  top: 37px;
+  width: 20px;
+}
+
+.about-me .i-m-an-early-career-2 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 99px;
+  width: 329px;
+}
+
+.about-me .text-wrapper-12 {
+  color: #3a59ca;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 61px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 64px;
+}
+
+.about-me .image-5 {
+  aspect-ratio: 1.16;
+  height: 30px;
+  left: 26px;
+  position: absolute;
+  top: 50px;
+  width: 35px;
+}
+
+.about-me .footer {
+  background-color: transparent;
+  height: 15px;
+  left: 26px;
+  position: absolute;
+  top: 1111px;
+  width: 333px;
+}
+
+.about-me .text-wrapper-13 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 201px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 126px;
+}
+
+.about-me .text-wrapper-14 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 48px;
+}
+
+.about-me .text-wrapper-14:hover {
+  color: #3a59ca;
+}
+
+.about-me .text-wrapper-15 {
+  color: #000000bf;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 57px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 31px;
+}
+
+.about-me .text-wrapper-15:hover {
+  color: #3a59ca;
+}
