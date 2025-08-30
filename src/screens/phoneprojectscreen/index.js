@@ -1,1 +1,1 @@
-export { PhoneProjectScreen } from "./PhoneProjectScreen";
+export { PhoneProjectScreen } from "./phoneprojectscreen";
